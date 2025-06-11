@@ -48,7 +48,9 @@ This task is applicable in multiple domains of real-world applications:
 This API Integration and Data Visualization project serves as a beginner-friendly yet powerful demonstration of how real-time data can be accessed, processed, and visualized in Python. It builds foundational knowledge useful for back-end development, machine learning preprocessing, and dashboarding. From writing clean code to creating visual outputs, the project reflects essential developer skills. It has equipped me with better understanding of how to consume APIs, handle JSON, and turn data into something visually valuable.
 
 
+## OUTPUT
 
+![Image](https://github.com/user-attachments/assets/12d3f377-1676-4f8c-abce-566b635391ac)
   
 
 
