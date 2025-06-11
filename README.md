@@ -10,7 +10,7 @@
 
 *DURATION*: 4 WEEKS  
 
-*MENTOR*:NEELA SANTOSH
+*MENTOR*: NEELA SANTOSH
 
 ## PROJECT DESCRIPTION
 
@@ -20,7 +20,7 @@ In this project, I used the OpenWeatherMap API to collect weather data across di
 
 The purpose of this task is not just to fetch data but to make it meaningful for analysis. It highlights how raw API data can be processed, cleaned, and turned into actionable visual insights. This project demonstrates a blend of data engineering (retrieving and cleaning data) and data science (visualizing and interpreting results).
 
-##  TOOLS & TECHNOLOGIES USED
+## TOOLS & TECHNOLOGIES USED
 
 - **Python** – Used as the main programming language
 - **Requests** – To send HTTP GET requests to APIs
@@ -28,11 +28,11 @@ The purpose of this task is not just to fetch data but to make it meaningful for
 - **Matplotlib** – For line graphs, bar charts, and data plotting
 - **Seaborn** – For advanced visualization with styles and color palettes
 
-## 🖥️ EDITOR USED
+## EDITOR USED
 
 - **Visual Studio Code (VS Code)** – Used for file organization and extended coding
 
-##  APPLICABILITY / USE CASES
+## APPLICABILITY / USE CASES
 
 This task is applicable in multiple domains of real-world applications:
 
